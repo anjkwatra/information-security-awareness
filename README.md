@@ -11,3 +11,10 @@ To capture ideas to spread awareness of Information Security
 #### Rhymes
 
 rymes needed for background
+
+```
+* Tandurusti ki raksha karta hai lifebuoy.... Hamere networks is Raksha karta hai firewall....
+* Nirma Deterjent Tikiya...
+* Pyar Hua ikrar hua... Delux Nirodh
+* 
+```
