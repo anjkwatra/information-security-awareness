@@ -9,7 +9,7 @@ version 0.2,  12 Dec 2019
 
 #### INT. SAGE WORKING FLOOR — DAY [Tech@sage T-shirts and Blue Jeans (Black stoles if possible) ]
 Forming a circle, clapping and saying 
-aao-aao tamasha dekho...tamashe wale aaye hain...(3-4 times, wait everyone to get settled)
+aao-aao tamasha dekho...tamashe wale aaye hain...ek naya tamasha dikhayenge..(3-4 times, wait for everyone to get settled)
 
 NARRATOR-1: Information, Jankariyan aur Suchnayen.  
 NARRATOR-2: Public, Internal, Restricted and Confidential...  
