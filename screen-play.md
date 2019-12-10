@@ -25,9 +25,14 @@ JINGLE-1:
 Hamare networks ki raksha karta hai, firewall  
 Hamare systems ki rakhsha karta hai, anti-virus...
 ```
-Par kya fir bhi ye surakshit hain ? agar haan to kaun hai jimmedar ...  aur kaun hai iske pahre dar....  
-ACTOR-3: Arey wo IT wale hain na  
-ACTIR-4:   
+Par kya fir bhi ye surakshit hain ? 
+
+JINGLE-2:
+```
+agar nahi to kaun hai jimmedar ...  aur kaun hai iske pahre dar....  
+```
+ACTOR-3: Arey wo IT wale hain na, unhe tankhvah kis bat ki milti hai...    
+ACTOR-4: aur waise bhi suchna dene wale ne di lene wale le li.. bat khatam....   
 
 
 
