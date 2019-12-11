@@ -37,3 +37,14 @@ Chubhti Jatli Garmi, Chubhti jalti garmi ka mausam aaya..., Jaago Grahak jago...
 * Vicks ki goli lo, Khich-khich dur karo..
 * School Time, Action ka school time..Class work, home work, punushment lectures...
 ```
+
+
+ANJALI IDEA :
+
+Lottery --- link to click 0=-- to win ()
+
+Dhol --- 
+
+Topi-- stupid
+
+Audeince connect
