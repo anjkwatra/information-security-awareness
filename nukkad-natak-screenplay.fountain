@@ -3,7 +3,7 @@ Credit: written by
 Author: Vikas Pandey and TBD
 Source: To spread information security awareness in an enterprise
 Notes:	
-	INITIAL DRAFT
+    INITIAL DRAFT
     includes pre-post production dialogue and omitted scenes
     Draft date: 12 DEC 2019	
 Copyright: (c) 2019 Sage Publishing, India
@@ -31,14 +31,15 @@ ACTOR 2
 Achcha to ye batao rakhte kahan hain ham inhe... ?  
 
 NARRATOR 1
-ye sari suchnaye hamare systems me hoti hain, kuch servers par, kuchh applications me, kuchh emails me, teams par... (aur bahut sari aisi hoti hai jo tum mujhse phone par tab maangte ho jan main chuuti pe jata hun )  
-Kabhi Socha hai ye sari information safe kaise rakhi jati hain? ya fir securely kaise ek email se dusre email tak jati hain?
+ye sari suchnaye hamare systems me hoti hain, kuch servers par,kuchh applications me, kuchh emails me, teams par... (aur bahut sari aisi hoti hai jo tum mujhse phone par tab maangte ho jan main chuuti pe jata hun )  
+Kabhi Socha hai ye sari information safe kaise rakhi jati hain?ya fir kaise ek jagah se dusri jagah tak security pahuchayi jati hain?
 
 JINGLE 1 (chorus)
 Hamare networks ki raksha karta hai, firewall..
 Hamare systems ki rakhsha karta hai, anti-virus...
 
-Par kya ye suraksha sufficient hai?
+Par kya ye suraksha sufficient hai? Sampurna hai?
+
 
 
 
